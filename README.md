@@ -23,12 +23,16 @@ clawd-band during a session:
 
 ## Activity
 
-My public GitHub activity:
+My Claude Code usage as of 20 November 2026: 712 sessions, active on 48 of 64 days, a longest streak of 20 days.
 
-![GitHub contribution streak for nninkovic95: total contributions, current streak and longest streak](https://streak-stats.demolab.com?user=nninkovic95&theme=github-dark-blue&hide_border=true)
+![Claude Code usage heatmap from September to November 2026: 712 sessions, 48 of 64 days active, longest streak 20 days, 21.2 billion tokens in total](assets/claude-code-usage.png)
+
+Tokens per day by model over the same period:
+
+![Claude Code tokens per day by model, mid-September to mid-November 2026: mostly Opus 5.5 (62.7%), then Sonnet 5.5 (12.9%), Fable 5.2 (12.1%) and Fable 5.1 (8.5%)](assets/claude-code-tokens.png)
 
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/nemanjaninkovic/) is the best way to reach me about work.
 
-<!-- Owner: nninkovic95. Review this page before a job application, when a project is published or retired, on a role change, and on a major release of sleepyshell or clawd-band. Check that the streak card still renders from a logged-out browser. -->
+<!-- Owner: nninkovic95. Review this page before a job application, when a project is published or retired, on a role change, and on a major release of sleepyshell or clawd-band. On each review, replace the two Claude Code usage screenshots and their date, or remove both. -->
